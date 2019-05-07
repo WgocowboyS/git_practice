@@ -1,0 +1,4 @@
+git remote add origin https://github.com/WgocowboyS/(whatever file name is)
+git push -u origin master
+use this code to transfer where I am on command line to website
+The similiarity of name doesnt matter, what matters is if I am on same directory.
