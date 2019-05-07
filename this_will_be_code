@@ -1,0 +1,10 @@
+#!/bin/bash
+echo "Hello there, hopefully this works. What is your favorite color?"
+read color
+if [ $color == blue ]
+then 
+echo "My, what a nice color."
+else
+echo "That is not blue."
+fi
+
